@@ -4,6 +4,20 @@
   <artifactId>Sep_API</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+  
+   <!-- Selenium -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.141.0</version>
+        </dependency>
+   <!-- WebDriverManager -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.9.2</version>
+        </dependency>
+  
   	<dependency>
     <groupId>io.rest-assured</groupId>
     <artifactId>rest-assured</artifactId>
