@@ -5,8 +5,7 @@ public class Pranav {
             String [] a= T.split(""); // You are splitting the string using an empty string delimiter
 //This means Java splits between every character
 
-            System.out.println("Java - selenium");
-            System.out.println("GitHub");
+
             for (String x: a) {
 
                 System.out.println(x);
