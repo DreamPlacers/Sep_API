@@ -1,10 +1,23 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>Sep_API
-  </groupId>
+  <groupId>Sep_API</groupId>
   <artifactId>Sep_API</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+  
+   <!-- Selenium -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>3.141.0</version>
+        </dependency>
+   <!-- WebDriverManager -->
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>5.9.2</version>
+        </dependency>
+  
   	<dependency>
     <groupId>io.rest-assured</groupId>
     <artifactId>rest-assured</artifactId>
