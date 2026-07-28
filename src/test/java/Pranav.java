@@ -21,7 +21,7 @@ public class Pranav {
 
 
 
-        
+
 
         char[] c= T.toCharArray();
 
