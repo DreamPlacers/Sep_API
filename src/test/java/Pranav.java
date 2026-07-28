@@ -17,6 +17,12 @@ public class Pranav {
         }
 
 
+
+
+
+
+
+
         char[] c= T.toCharArray();
 
         System.out.println(T.length());
