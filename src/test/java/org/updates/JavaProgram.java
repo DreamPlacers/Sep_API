@@ -7,7 +7,7 @@ public class JavaProgram {
         for (int i = 17; i >=14; i--) {
             for (int j = 20; j >18; j--) {
                 System.out.println(j+1);
-                for (int k = 0; k < 2; k++) {
+                for (int k = 1; k < 2; k++) {
                     System.out.println(k);
 
                 }
