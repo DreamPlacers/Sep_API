@@ -1,7 +1,7 @@
-package com.Kaviraj;
+package org;
 
-public class JAVADEMO {
-	
+public class JavaDemoKR {
+
 
 	public static boolean isDuplicate (String a, String b) {  
 		return a.equals(b);
@@ -19,5 +19,3 @@ public class JAVADEMO {
 	}
 	
 }
-
-
