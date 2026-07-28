@@ -8,20 +8,15 @@ public class Demo {
 
 	public static void main(String[] args) {
 		
-		//List
 				List variable = new ArrayList();
 
 
-				//To add values to list - method : add()
 				variable.add(100);			//0
 				variable.add("Name");	    //1
 				variable.add('@');			//2
 				variable.add("Name");		//3
 
 
-//				ArrayList<String> values = new ArrayList<String>();
-//				values.add("Kavi Raj");
-//				values.add("Shamili");
 
 
 				//To find the size of the list - size()
@@ -82,6 +77,7 @@ public class Demo {
 				//To copy one list to another - addAll()
 				list1.addAll(variable);
 				System.out.println(list1);
+				System.out.println("Demo");
 
 
 				//to print list values using loop
