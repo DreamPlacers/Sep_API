@@ -16,7 +16,28 @@ public class pavinClass {
 		}else {
 			System.out.println("its NOt prime number");
 		}	
+		
+		
+		
+		
+		
+		
+		//check for elegible for vote//
+		int age = 20;
+		if(age >=18) {
+			System.out.println("Elegible for vote");
+		} else {
+			System.out.println("Not Elegible for vote");
+		}	
+		
+		
+		
+		
+		
 	}
+	
 
+	
 
 }
+
